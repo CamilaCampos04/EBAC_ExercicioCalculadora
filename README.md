@@ -3,4 +3,5 @@
 
 - Baixar os arquivos calculadora.sh calculadora.py.
 - Instalar eles na mesma pasta.
-- Executar calculadora.sh
+- Edite o arquivo .sh alterando o caminho para o local atualizado dos arquivos.
+- Execute calculadora.sh
