@@ -6,3 +6,6 @@
 - Instalar eles na mesma pasta.
 - Edite o arquivo .sh na linha 10, alterando o caminho para o local atualizado dos arquivos.
 - Execute calculadora.sh
+
+## Calculadora
+A ideia da calculadora criada é permitir que o usuário consiga realizar ações simples (soma, subtração, multiplicação e divisão) com os números informados.
